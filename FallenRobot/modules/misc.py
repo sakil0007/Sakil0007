@@ -98,8 +98,8 @@ Example:
  `/cash 1 USD INR`  
       _OR_
  `/cash 1 usd inr`
-Output: `1.0 USD = 75.505 INR`
-⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
+Output: `1.0 USD = 81.005 INR`
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@its_Me_SakiL](https://t.me/its_Me_SakiL)⛦⃕͜🇮🇳𓊉
 
 """
 

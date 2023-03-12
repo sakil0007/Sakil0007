@@ -11,7 +11,7 @@ __help__ = """
 I will give information about github profile 
 
  ❍ /github <username>*:* Get information about a GitHub user.
-⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@its_Me_SakiL](https://t.me/its_Me_SakiL)⛦⃕͜🇮🇳𓊉
 """
 
 
@@ -52,7 +52,7 @@ async def github(_, message):
 **Location:** `{location}`
 **Followers:** `{followers}`
 **Following:** `{following}`
-⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉"""
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@its_Me_SakiL](https://t.me/its_Me_SakiL)⛦⃕͜🇮🇳𓊉"""
             except Exception as e:
                 print(str(e))
     await message.reply_photo(photo=avatar_url, caption=caption)

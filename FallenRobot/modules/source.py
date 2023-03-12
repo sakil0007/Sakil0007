@@ -18,24 +18,24 @@ async def repo(client, message):
         photo=ANON,
         caption=f"""**ʜᴇʏ​ {message.from_user.mention()},\n\nɪ ᴀᴍ [{dispatcher.bot.first_name}](t.me/{dispatcher.bot.username})**
 
-**» ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ :** [𝐕𝐈𝐏 𝐁𝐎𝐘](tg://user?id=1808943146)
+**» ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ :** [its_Me_SakiL](tg://user?id=1172640079)
 **» ᴩʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{y()}`
 **» ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{o}` 
 **» ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{s}` 
 **» ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :** `{z}`
 
 ** Bot sᴏᴜʀᴄᴇ ɪs ɴᴏᴡ ᴩᴜʙʟɪᴄ ᴀɴᴅ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ.**
-⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@its_Me_SakiL](https://t.me/its_Me_SakiL)⛦⃕͜🇮🇳𓊉
 """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🔥𝐌𝐄𝐑𝐀 𝐁𝐀𝐀𝐏🔥", url=f"https://t.me/{OWNER_USERNAME}"
+                        "🔥MERA YRR🔥", url=f"https://t.me/{OWNER_USERNAME}"
                     ),
                     InlineKeyboardButton(
                         "😱𝐁𝐎𝐓 𝐑𝐄𝐏𝐎🤩",
-                        url="https://github.com/THE-VIP-BOY-OP/VIP-ROBOT",
+                        url="https://t.me/its_Me_SakiL",
                     ),
                 ]
             ]

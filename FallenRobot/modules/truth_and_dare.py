@@ -31,7 +31,7 @@ __help__ = """
 
  ❍ /truth *:* Sends a random truth string.
  ❍ /dare *:* Sends a random dare string.
-⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@its_Me_SakiL](https://t.me/its_Me_SakiL)⛦⃕͜🇮🇳𓊉
 """
 
 __mod_name__ = "🍹𝐓𝐑𝐔𝐓𝐇🍸"

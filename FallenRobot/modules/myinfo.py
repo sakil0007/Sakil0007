@@ -11,11 +11,11 @@ from FallenRobot.events import register
 
 edit_time = 1
 """ =======================FALLEN ROBOT====================== """
-file1 = "https://telegra.ph/file/9a85d0a873e2dd80d278d.jpg"
-file2 = "https://telegra.ph/file/9e7815284031452afa9e5.jpg"
-file3 = "https://telegra.ph/file/dcc5e003287f69acea368.jpg"
-file4 = "https://telegra.ph/file/ed1ce7fee94f46b0f671e.jpg"
-file5 = "https://telegra.ph/file/701028ce085ecfa961a36.jpg"
+file1 = "https://telegra.ph//file/c1602a8975a50380b7b0f.jpg"
+file2 = "https://telegra.ph//file/c1602a8975a50380b7b0f.jpg"
+file3 = "https://telegra.ph//file/c1602a8975a50380b7b0f.jpg"
+file4 = "https://telegra.ph//file/c1602a8975a50380b7b0f.jpg"
+file5 = "https://telegra.ph//file/c1602a8975a50380b7b0f.jpg"
 """ =======================FALLEN ROBOT====================== """
 
 
@@ -65,12 +65,12 @@ async def callback_query_handler(event):
     try:
         boy = event.sender_id
         PRO = await bot.get_entity(boy)
-        LILIE = "⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉 \n\n"
+        LILIE = "⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@its_Me_SakiL](https://t.me/its_Me_SakiL)⛦⃕͜🇮🇳𓊉 \n\n"
         LILIE += f"FIRST NAME : {PRO.first_name} \n"
         LILIE += f"LAST NAME : {PRO.last_name}\n"
         LILIE += f"YOU BOT : {PRO.bot} \n"
         LILIE += f"RESTRICTED : {PRO.restricted} \n"
-        LILIE += f"USER ID : {boy}\n"
+        LILIE += f"USER ID : {its_Me_SakiL}\n"
         LILIE += f"USERNAME : {PRO.username}\n"
         await event.answer(LILIE, alert=True)
     except Exception as e:

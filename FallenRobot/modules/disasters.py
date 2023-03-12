@@ -647,7 +647,7 @@ Group admins/group owners do not need these commands.
 
 `⚠️ Read from top`
 Visit @{SUPPORT_CHAT} for more information.
-⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@its_Me_SakiL](https://t.me/its_Me_SakiL)⛦⃕͜🇮🇳𓊉
 """
 
 SUDO_HANDLER = CommandHandler(("addsudo", "adddragon"), addsudo)

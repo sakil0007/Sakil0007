@@ -143,14 +143,14 @@ def check_afk(update, context, user_id, fst_name, userc_id):
 
 
 __help__ = """
- ©️ ʙʏ ᯾ [ɴᴏᴏʙ Mᴜᴋᴇsʜ] (t.me/tg_friendss)
+ ©️ ʙʏ ᯾ [its_Me_SakiL] (t.me/its_Me_SakiL)
 
 *ᴀᴡᴀʏ ғʀᴏᴍ ɢʀᴏᴜᴘ*
  ❍ /afk <reason>*:* mark yourself as AFK(away from keyboard).
  ❍ bye <reason>*:* same as the afk command - but not a command.
 When marked as AFK, any mentions will be replied to with a message to say you're not available!
  
-©️ ⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊@THE\_VIP\_BOY⛦⃕͜🇮🇳𓊉
+©️ ⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊@its_Me_SakiL⛦⃕͜🇮🇳𓊉
 """
 
 AFK_HANDLER = DisableAbleCommandHandler("afk", afk)

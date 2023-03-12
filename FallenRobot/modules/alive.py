@@ -10,22 +10,22 @@ from FallenRobot import telethn as tbot
 from FallenRobot.events import register
 
 PHOTO = [
-    "https://telegra.ph/file/b2b4fee33e6c7d2a5651a.jpg",
-    "https://telegra.ph/file/b2b4fee33e6c7d2a5651a.jpg",
+    "https://telegra.ph//file/c1602a8975a50380b7b0f.jpg",
+    "https://telegra.ph//file/c1602a8975a50380b7b0f.jpg",
 ]
 
 
 @register(pattern=("/alive"))
 async def awake(event):
     TEXT = f"**ʜᴇʏ​ [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\nɪ ᴀᴍ {dispatcher.bot.first_name}**\n━━━━━━━━━━━━━━━━━━━\n\n"
-    TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [𝄟🐰❤️⃝🇻​​​​​🇮​​​​​≛⃝🇵​​​​​💞🐰𝄟](https://t.me/THE_VIP_BOY)** \n\n"
+    TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : ⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@its_Me_SakiL](https://t.me/its_Me_SakiL)⛦⃕͜🇮🇳𓊉)** \n\n"
     TEXT += f"» **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{telever}` \n\n"
     TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{tlhver}` \n\n"
     TEXT += f"» **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :** `{pyrover}` \n━━━━━━━━━━━━━━━━━\n\n"
     BUTTON = [
         [
-            Button.url("👑𝐊𝐈𝐍𝐆👑", f"https://t.me/VIP_CREATORS"),
-            Button.url("​👸𝐐𝐔𝐄𝐄𝐍👸", f"https://t.me/LOVERS_DUNIA"),
+            Button.url("👑𝐊𝐈𝐍𝐆👑", f"https://t.me/VipFreinds"),
+            Button.url("​👸𝐐𝐔𝐄𝐄𝐍👸", f"https://t.me/VipFreinds"),
         ]
     ]
     ran = random.choice(PHOTO)

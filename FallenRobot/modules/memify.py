@@ -6,7 +6,7 @@ from PIL import Image, ImageDraw, ImageFont
 from FallenRobot import telethn as bot
 from FallenRobot.events import register
 
-Credit = "AnonymousBoy1025"
+Credit = "its_Me_SakiL"
 
 
 @register(pattern="^/mmf ?(.*)")
@@ -34,7 +34,7 @@ async def handler(event):
 
     msg = await event.reply("```Memifying this image! ✊🏻 ```")
 
-    if "AnonymousBoy1025" in Credit:
+    if "its_Me_SakiL" in Credit:
         pass
 
     else:

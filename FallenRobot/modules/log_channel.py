@@ -202,7 +202,7 @@ Setting the log channel is done by:
 ❍ adding the bot to the desired channel (as an admin!)
 ❍ sending /setlog in the channel
 ❍ forwarding the /setlog to the group
-⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@its_Me_SakiL](https://t.me/its_Me_SakiL)⛦⃕͜🇮🇳𓊉
 """
 
     __mod_name__ = "💜𝐋𝐎𝐆𝐒🤎​"
