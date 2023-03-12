@@ -324,10 +324,10 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "ʜᴇᴀʟᴛʜ", url="https://t.me/AnonAssociation/7"
+                                "ʜᴇᴀʟᴛʜ", url="https://t.me/VipFreinds/7"
                             ),
                             InlineKeyboardButton(
-                                "ᴅɪꜱᴀꜱᴛᴇʀ", url="https://t.me/AnonAssociation/8"
+                                "ᴅɪꜱᴀꜱᴛᴇʀ", url="https://t.me/VipFreinds/8"
                             ),
                         ],
                     ]
@@ -470,7 +470,7 @@ def set_about_bio(update: Update, context: CallbackContext):
 
         if user_id == bot.id and sender_id not in DEV_USERS:
             message.reply_text(
-                "Umm... yeah, I only trust Anon Association to set my bio."
+                "Umm... yeah, I only @its_Me_SakiL to set my bio."
             )
             return
 
